@@ -59,8 +59,8 @@ All recommendations (treatments, medical suggestions, 7-day diet plan, and preca
 Below is a screenshot of the User Interface (UI) showing predictions and recommendations:
 
 <p float="left">
-  <img src="path/to/image1.png" alt="Numerical Prediction UI" width="45%" />
-  <img src="path/to/image2.png" alt="Image-based Prediction UI" width="45%" />
+  <img src="images/Screenshot (110).png" alt="Numerical Prediction UI" width="45%" />
+  <img src="images/Screenshot (111).png" alt="Image-based Prediction UI" width="45%" />
 </p>
 
 
