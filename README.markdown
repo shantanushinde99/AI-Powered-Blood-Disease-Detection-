@@ -55,6 +55,16 @@ Users can upload a blood smear image to predict the cell type and map it to a di
 ### 3. Recommendation System
 All recommendations (treatments, medical suggestions, 7-day diet plan, and precautions) are generated using **Gemini 2.0 Flash**. Use Your Gemini API Key 
 
+## Results
+Below is a screenshot of the User Interface (UI) showing predictions and recommendations:
+
+<p float="left">
+  <img src="path/to/image1.png" alt="Numerical Prediction UI" width="45%" />
+  <img src="path/to/image2.png" alt="Image-based Prediction UI" width="45%" />
+</p>
+
+
+
 ## Project Structure
 ```
 ├── .venv/                        # Virtual environment
@@ -142,5 +152,4 @@ All recommendations (treatments, medical suggestions, 7-day diet plan, and preca
 For questions or support, reach out via LinkedIn:  
 [Shantanu Shinde](https://www.linkedin.com/in/shantanu-shinde-a11b63170/)
 
-## License
-This project is licensed under the MIT License.
+
