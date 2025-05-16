@@ -53,7 +53,7 @@ Users can upload a blood smear image to predict the cell type and map it to a di
 - Recommendations (treatments, diet plan, precautions, etc.)
 
 ### 3. Recommendation System
-All recommendations (treatments, medical suggestions, 7-day diet plan, and precautions) are generated using **Gemini 2.0 Flash**.
+All recommendations (treatments, medical suggestions, 7-day diet plan, and precautions) are generated using **Gemini 2.0 Flash**. Use Your Gemini API Key 
 
 ## Project Structure
 ```
@@ -120,11 +120,8 @@ All recommendations (treatments, medical suggestions, 7-day diet plan, and preca
    - For image-based prediction, prepare blood smear images (e.g., PNG, JPEG).
 
 2. **Run the Application**:
-   - For numerical/binary feature prediction:
-     ```bash
-     python app.py
-     ```
-   - For image-based prediction:
+
+   - For numerical based and image-based prediction:
      ```bash
      python app2.py
      ```
